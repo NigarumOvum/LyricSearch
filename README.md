@@ -1,4 +1,4 @@
-# ExcghangeRateCalculator
+# Song Lyric Browser
 
 Made with Vite(Vanilla JS & TyepScript)
 
